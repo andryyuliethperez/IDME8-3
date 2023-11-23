@@ -6,43 +6,13 @@
     
     }
     
-    
-    
-    
     body{
     
     background-image: url("");
     
     background-repeat: repeat;
     
-    }
-    
-    .fondomate{
-        background-image: url("Fondo8.png");
-        
-        background-repeat: repeat;
-        
-        }
-        .fondosoci{
-            background-image: url("fondo2.png");
-            background-repeat: repeat;
-            }
-        
-        .fondoingles{
-            background-image: url("fondoin.png");
-            background-repeat: repeat;
-            
-        }
-            .fondotec{
-                background-image: url("Fondotec.png");
-                background-repeat: repeat;
-            }
-                .fondoinicion{
-                    background-image: url("fonsi.png");
-                    background-repeat: repeat;
-                    
-                    }
-    
+}
     .imagenes{
     
     position: relative;
@@ -183,30 +153,11 @@
     
         margin-right:0px;
         
-        background-image: url("ft9.jpg");
+        background-image: url("");
     }
     
-    .imagenesmatematicas3{
-
- 
-
-        background-repeat: no-repeat;
-        
-        float:center;
-        
-        height: 473px;
-        
-        width: 1043px;
-        
-        margin-left: 5px;
-        
-        margin-right:7px;
-        
-        background-image: url("fat3.jpg");
-        
-    }
-
-.imagenessociales1{
+    
+.imagenessociales{
 
  
 
@@ -222,43 +173,7 @@
     
     margin-right:348px;
     
-    background-image: url("1.png");
-}
-.imagenessociales2{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float:center;
-    
-    height: 2001px;
-    
-    width: 1683px;
-    
-    margin-left:348px;
-    
-    margin-right:348px;
-    
-    background-image: url("2.png");
-}
-.imagenessociales3{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float:center;
-    
-    height: 2001px;
-    
-    width: 1683px;
-    
-    margin-left: 348px;
-    
-    margin-right:348px;
-    
-    background-image: url("3.png");
+    background-image: url("");
 }
 
 .imageneingles{
@@ -279,151 +194,7 @@
     
     background-image: url("in1.png");
 }
-.imageneingles2{
 
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 293px;
-    
-    width: 210px;
-    
-    margin-left: 400px;
-    
-    margin-right:5px;
-    
-    background-image: url("in2.jpeg");
-}
-
-.imageneingles3{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 234px;
-    
-    width: 264px;
-    
-    margin-left: 351px;
-    
-    margin-right:5px;
-    
-    background-image: url("in3.jpeg");
-}
-.imageningles4{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 234px;
-    
-    width: 264px;
-    
-    margin-left: 351px;
-    
-    margin-right:5px;
-    
-    background-image: url("in4.jpeg");
-}
-.imageningles5{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 234px;
-    
-    width: 264px;
-    
-    margin-left: 351px;
-    
-    margin-right:5px;
-    
-    background-image: url("in5.jpeg");
-}
-.imageningles6{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 234px;
-    
-    width: 264px;
-    
-    margin-left: 351px;
-    
-    margin-right:5px;
-    
-    background-image: url("in6.jpeg");
-}
-.imageningles7{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 510px;
-    
-    width: 600px;
-    
-    margin-left: 351x;
-    
-    margin-right:5px;
-    
-    background-image: url("in7.webp");
-}
-.imageningles8{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 229px;
-    
-    width: 311px;
-    
-    margin-left: 356px;
-    
-    margin-right:5px;
-    
-    background-image: url("in8.jpeg");
-}
-.imageningles9{
-
- 
-
-    background-repeat: no-repeat;
-    
-    float: center;
-    
-    height: 581px;
-    
-    width: 494px;
-    
-    margin-left:  130px;
-    
-    margin-right:5px;
-    
-    background-image: url("in9.jpeg");
-}
 
 
 .imagenestecnologuia{
