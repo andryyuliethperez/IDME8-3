@@ -1,0 +1,466 @@
+*{
+
+    padding: 300px;
+    
+    margin: 300px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("");
+    
+    background-repeat: repeat;
+    
+    }
+    
+    .fondomate{
+        background-image: url("");
+        
+        background-repeat: repeat;
+        
+        }
+        .fondosoci{
+            background-image: url("");
+            background-repeat: repeat;
+            }
+        
+        .fondoingles{
+            background-image: url("");
+            background-repeat: repeat;
+            
+        }
+            .fondotec{
+                background-image: url("");
+                background-repeat: repeat;
+            }
+                .fondoinicion{
+                    background-image: url("");
+                    background-repeat: repeat;
+                    
+                    }
+    
+    .imagenes{
+    
+    position: relative;
+    
+     
+    
+    width: 4500px;
+    
+    height: 200px;
+    
+    border-radius: 00px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 400px;
+    
+    background-image: url("");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 4000px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 39px;
+    
+    text-align: justify;
+    
+    color: rgba(8, 8, 8, 0.959);
+}
+
+.contenido{
+
+    height: 280px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+    
+     
+    
+    .imagensociales{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+    
+    }
+    .imagenes.jpg{
+    
+     
+    
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("");
+    }
+
+    
+    .textosociales{
+    
+    text-align: justify;
+    
+    color: rgb(199, 8, 8);
+    
+    font-size: 20px;
+    
+    
+    
+    }
+
+
+  .textomatematicas{
+
+font-size: 50px;
+
+text-align:center;
+
+color: rgba(8, 8, 8, 0.959);
+
+ 
+
+}
+.imagenesmatematicas{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 200px;
+    
+    width: 361px;
+    
+    margin-left: 117px;
+
+    margin-right:0px;
+    
+    background-image: url("");
+}
+
+.imagenesmatematicas3{
+
+
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 473px;
+    
+    width: 1043px;
+    
+    margin-left: 5px;
+    
+    margin-right:7px;
+    
+    background-image: url("");
+    
+}
+
+.imagenessociales1{
+
+
+
+background-repeat: no-repeat;
+
+float:center;
+
+height: 2001px;
+
+width: 1683px;
+
+margin-left: 348px;
+
+margin-right:348px;
+
+background-image: url("");
+}
+.imagenessociales2{
+
+
+
+background-repeat: no-repeat;
+
+float:center;
+
+height: 2001px;
+
+width: 1683px;
+
+margin-left:348px;
+
+margin-right:348px;
+
+background-image: url("");
+}
+.imagenessociales3{
+
+
+
+background-repeat: no-repeat;
+
+float:center;
+
+height: 2001px;
+
+width: 1683px;
+
+margin-left: 348px;
+
+margin-right:348px;
+
+background-image: url("");
+}
+
+.imageneingles{
+
+
+
+background-repeat: no-repeat;
+
+float: center;
+
+height: 725px;
+
+width: 999px;
+
+margin-left: 12px;
+
+margin-right:5px;
+
+background-image: url("");
+}
+.imageneingles2{
+
+
+
+background-repeat: no-repeat;
+
+float: center;
+
+height: 293px;
+
+width: 210px;
+
+margin-left: 400px;
+
+margin-right:5px;
+
+background-image: url("");
+}
+
+.imageneingles3{
+
+
+
+background-repeat: no-repeat;
+
+float: center;
+
+height: 234px;
+
+width: 264px;
+
+margin-left: 351px;
+
+margin-right:5px;
+
+background-image: url("");
+}
+.imageningles4{
+
+
+
+background-repeat: no-repeat;
+
+float: center;
+
+height: 234px;
+
+width: 264px;
+
+margin-left: 351px;
+
+margin-right:5px;
+
+background-image: url("");
+}
+.imageningles5{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+.imageningles6{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("in6.jpeg");
+}
+.imageningles7{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 510px;
+    
+    width: 600px;
+    
+    margin-left: 351x;
+    
+    margin-right:5px;
+    
+    background-image: url("in7.webp");
+}
+.imageningles8{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 229px;
+    
+    width: 311px;
+    
+    margin-left: 356px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+.imageningles9{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 581px;
+    
+    width: 494px;
+    
+    margin-left:  130px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+
+
+.imagenestecnologuia{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+
+.Inicio{
+
+ 
+
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 237px;
+    
+    width: 295px;
+    
+    margin-left: 364px;
+    
+    margin-right:5px;
+    
+    background-image: url("");
+}
+.textoinicio{
+font-size: 50px;
+    text-align: justify;
+    color: rgba(8,8,8,0.959);
+}
