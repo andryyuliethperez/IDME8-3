@@ -18,27 +18,27 @@
     }
     
     .fondomate{
-        background-image: url("");
+        background-image: url("Fondo8.png");
         
         background-repeat: repeat;
         
         }
         .fondosoci{
-            background-image: url("");
+            background-image: url("fondo2.png");
             background-repeat: repeat;
             }
         
         .fondoingles{
-            background-image: url("");
+            background-image: url("fondoin.png");
             background-repeat: repeat;
             
         }
             .fondotec{
-                background-image: url("");
+                background-image: url("Fondotec.png");
                 background-repeat: repeat;
             }
                 .fondoinicion{
-                    background-image: url("");
+                    background-image: url("fonsi.png");
                     background-repeat: repeat;
                     
                     }
@@ -61,7 +61,7 @@
     
     left: 400px;
     
-    background-image: url("");
+    background-image: url("medellin.jpeg");
     
     }
     
@@ -82,47 +82,31 @@
     text-align: justify;
     
     color: rgba(8, 8, 8, 0.959);
-}
-
-.contenido{
-
-    height: 280px;
-    
-    width: 100%;
-    
-    position: absolute;
-    
-    top: 410px;
     
      
     
     }
-    
-     
-    
-    .imagensociales{
-    
-     
-    
-    background-repeat: no-repeat;
-    
-    float:left;
-    
-    height: 200px;
-    
-    width: 260px;
-    
-    margin-left: 5px;
-    
-    margin-right:5px;
-    
-    background-image: url("");
-    
-    }
-    .imagenes.jpg{
-    
-     
-    
+
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagensociales{
+        
+         
+        
         background-repeat: no-repeat;
         
         float:left;
@@ -135,200 +119,220 @@
         
         margin-right:5px;
         
-        background-image: url("");
+        background-image: url("discursobolivar.jpg");
+        
+        }
+        .imagenes.jpg{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("imagenes.jpg");
+        }
+    
+        
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: rgb(199, 8, 8);
+        
+        font-size: 20px;
+        
+        
+        
+        }
+    
+    
+      .textomatematicas{
+    
+    font-size: 50px;
+    
+    text-align:center;
+    
+    color: rgba(8, 8, 8, 0.959);
+    
+     
+    
     }
 
-    
-    .textosociales{
-    
-    text-align: justify;
-    
-    color: rgb(199, 8, 8);
-    
-    font-size: 20px;
-    
-    
-    
-    }
-
-
-  .textomatematicas{
-
-font-size: 50px;
-
-text-align:center;
-
-color: rgba(8, 8, 8, 0.959);
+    .imagenesmatematicas{
 
  
 
-}
-.imagenesmatematicas{
+        background-repeat: no-repeat;
+        
+        float:center;
+        
+        height: 200px;
+        
+        width: 361px;
+        
+        margin-left: 117px;
+    
+        margin-right:0px;
+        
+        background-image: url("ft9.jpg");
+    }
+    
+    .imagenesmatematicas3{
 
  
 
-    background-repeat: no-repeat;
-    
-    float:center;
-    
-    height: 200px;
-    
-    width: 361px;
-    
-    margin-left: 117px;
-
-    margin-right:0px;
-    
-    background-image: url("");
-}
-
-.imagenesmatematicas3{
-
-
-
-    background-repeat: no-repeat;
-    
-    float:center;
-    
-    height: 473px;
-    
-    width: 1043px;
-    
-    margin-left: 5px;
-    
-    margin-right:7px;
-    
-    background-image: url("");
-    
-}
+        background-repeat: no-repeat;
+        
+        float:center;
+        
+        height: 473px;
+        
+        width: 1043px;
+        
+        margin-left: 5px;
+        
+        margin-right:7px;
+        
+        background-image: url("fat3.jpg");
+        
+    }
 
 .imagenessociales1{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float:center;
-
-height: 2001px;
-
-width: 1683px;
-
-margin-left: 348px;
-
-margin-right:348px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 2001px;
+    
+    width: 1683px;
+    
+    margin-left: 348px;
+    
+    margin-right:348px;
+    
+    background-image: url("1.png");
 }
 .imagenessociales2{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float:center;
-
-height: 2001px;
-
-width: 1683px;
-
-margin-left:348px;
-
-margin-right:348px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 2001px;
+    
+    width: 1683px;
+    
+    margin-left:348px;
+    
+    margin-right:348px;
+    
+    background-image: url("2.png");
 }
 .imagenessociales3{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float:center;
-
-height: 2001px;
-
-width: 1683px;
-
-margin-left: 348px;
-
-margin-right:348px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float:center;
+    
+    height: 2001px;
+    
+    width: 1683px;
+    
+    margin-left: 348px;
+    
+    margin-right:348px;
+    
+    background-image: url("3.png");
 }
 
 .imageneingles{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float: center;
-
-height: 725px;
-
-width: 999px;
-
-margin-left: 12px;
-
-margin-right:5px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 725px;
+    
+    width: 999px;
+    
+    margin-left: 12px;
+    
+    margin-right:5px;
+    
+    background-image: url("in1.png");
 }
 .imageneingles2{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float: center;
-
-height: 293px;
-
-width: 210px;
-
-margin-left: 400px;
-
-margin-right:5px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 293px;
+    
+    width: 210px;
+    
+    margin-left: 400px;
+    
+    margin-right:5px;
+    
+    background-image: url("in2.jpeg");
 }
 
 .imageneingles3{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float: center;
-
-height: 234px;
-
-width: 264px;
-
-margin-left: 351px;
-
-margin-right:5px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("in3.jpeg");
 }
 .imageningles4{
 
+ 
 
-
-background-repeat: no-repeat;
-
-float: center;
-
-height: 234px;
-
-width: 264px;
-
-margin-left: 351px;
-
-margin-right:5px;
-
-background-image: url("");
+    background-repeat: no-repeat;
+    
+    float: center;
+    
+    height: 234px;
+    
+    width: 264px;
+    
+    margin-left: 351px;
+    
+    margin-right:5px;
+    
+    background-image: url("in4.jpeg");
 }
 .imageningles5{
 
@@ -346,7 +350,7 @@ background-image: url("");
     
     margin-right:5px;
     
-    background-image: url("");
+    background-image: url("in5.jpeg");
 }
 .imageningles6{
 
@@ -400,7 +404,7 @@ background-image: url("");
     
     margin-right:5px;
     
-    background-image: url("");
+    background-image: url("in8.jpeg");
 }
 .imageningles9{
 
@@ -418,7 +422,7 @@ background-image: url("");
     
     margin-right:5px;
     
-    background-image: url("");
+    background-image: url("in9.jpeg");
 }
 
 
@@ -457,10 +461,12 @@ background-image: url("");
     
     margin-right:5px;
     
-    background-image: url("");
+    background-image: url("inicio2.jpeg");
 }
 .textoinicio{
 font-size: 50px;
     text-align: justify;
-    color: rgba(8,8,8,0.959);
+    color: rgba(8, 8, 8, 0.959);
 }
+
+        
